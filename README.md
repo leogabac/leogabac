@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+
+
 
 <!--
 **leogabac/leogabac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m a Master's student at Tecnológico de Monterrey, specializing in *Nanotechnology*. My research focuses on *Soft Matter Physics*, particularly in *Artificial Colloidal Ice*. I’m passionate about using simulations to explore the fascinating properties of colloidal systems and how they can be engineered for future technologies.
+
+You can reach my by sending an email to leogabac@proton.me
+
+## Outside of Research
+When I'm not running simulations, you’ll probably find me exploring Linux systems, delving into the latest in tech, or indulging in my other interests, like music, science, and anime. I also enjoy writing and sharing my thoughts on these topics through my blog.
+
