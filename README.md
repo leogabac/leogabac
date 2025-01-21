@@ -1,26 +1,13 @@
 # About me
 
+I'm a computational physicist with a focus on soft matter physics, particularly artificial colloidal ice. In am currently doing a Master's degree in Nanotechnology at Tecnológico de Monterrey. I enjoy solving physical problems through code and strive for clean, and performance—though my projects are mostly for personal/research use.
 
+I'm a computer, linux and FOSS enthusiast who enjoys understanding how things work and making them better. I use Arch (btw). I like tweaking my setup, finding ways to work more efficiently, and re-invent the wheel from time to time. I enjoy experimenting with different tools, writing scripts to automate tasks, and embracing the philosophy that computing should be efficient, flexible, and, above all, enjoyable. 
 
-<!--
-**leogabac/leogabac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [dotfiles](https://github.com/leogabac/dotfiles) 
+- [Neovim configuration](https://github.com/leogabac/leovim)
+- Blog [Random Access Thoughts](https://randomaccessthoughts03.wordpress.com/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-👋 Hi, I’m a Master's student at Tecnológico de Monterrey, specializing in *Nanotechnology*. My research focuses on *Soft Matter Physics*, particularly in *Artificial Colloidal Ice*. I’m passionate about using simulations to explore the fascinating properties of colloidal systems and how they can be engineered for future technologies.
+I also enjoy teaching, as it allows me to share knowledge and help others grow. Explaining complex ideas in a simple way is both a challenge and a reward, and I find it fulfilling to see others gain confidence in what they’re learning. Whether it’s mentoring students, discussing research, or writing about technical topics, I like breaking things down and making them easier to understand. Teaching also helps me learn, as it pushes me to think more clearly and explore new perspectives.
 
 You can reach my by sending an email to leogabac@proton.me
-
-## Outside of Research
-When I'm not running simulations, you’ll probably find me exploring Linux systems, delving into the latest in tech, or indulging in my other interests, like music, science, and anime. I also enjoy writing and sharing my thoughts on these topics through my blog.
-
