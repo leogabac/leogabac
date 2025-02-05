@@ -6,7 +6,7 @@ I'm a computer, linux and FOSS enthusiast who enjoys understanding how things wo
 
 - [dotfiles](https://github.com/leogabac/dotfiles) 
 - [Neovim configuration](https://github.com/leogabac/leovim)
-- Blog [Random Access Thoughts](https://randomaccessthoughts03.wordpress.com/)
+- Blog [Random Access Thoughts](https://leogabac.github.io/RandomAccessThoughts/)
 
 I also enjoy teaching, as it allows me to share knowledge and help others grow. Explaining complex ideas in a simple way is both a challenge and a reward, and I find it fulfilling to see others gain confidence in what they’re learning. Whether it’s mentoring students, discussing research, or writing about technical topics, I like breaking things down and making them easier to understand. Teaching also helps me learn, as it pushes me to think more clearly and explore new perspectives.
 
