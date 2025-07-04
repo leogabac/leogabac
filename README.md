@@ -1,6 +1,6 @@
 # About me
 
-I'm a computational physicist with a focus on soft matter physics, particularly artificial colloidal ice. In am currently doing a Master's degree in Nanotechnology at Tecnológico de Monterrey. I enjoy solving physical problems through code and strive for clean, and performance—though my projects are mostly for personal/research use.
+I'm a computational physicist with a focus on soft matter physics.  During my Master's degree (Nanotechnology) I focused on the anisotropic regime in Artificial Colloidal Ice. I enjoy solving physical problems through code and strive for clean, and performance—though my projects are mostly for personal/research use.
 
 I'm a computer, linux and FOSS enthusiast who enjoys understanding how things work and making them better. I use Arch (btw). I like tweaking my setup, finding ways to work more efficiently, and re-invent the wheel from time to time. I enjoy experimenting with different tools, writing scripts to automate tasks, and embracing the philosophy that computing should be efficient, flexible, and, above all, enjoyable. 
 
