@@ -1,13 +1,18 @@
 # About me
 
-I'm a computational physicist with a focus on soft matter physics.  During my Master's degree (Nanotechnology) I focused on the anisotropic regime in Artificial Colloidal Ice. I enjoy solving physical problems through code and strive for clean, and performance—though my projects are mostly for personal/research use.
+I am a **computational physicist** specializing in **Soft Matter Physics**, currently pursuing a **PhD** at the **School of Chemistry, Chemical Engineering and Biotechnology (CCEB)**, **Nanyang Technological University (NTU)**.
 
-I'm a computer, linux and FOSS enthusiast who enjoys understanding how things work and making them better. I use Arch (btw). I like tweaking my setup, finding ways to work more efficiently, and re-invent the wheel from time to time. I enjoy experimenting with different tools, writing scripts to automate tasks, and embracing the philosophy that computing should be efficient, flexible, and, above all, enjoyable. 
+During my **Master’s in Nanotechnology**, I investigated the anisotropic regime in *Artificial Colloidal Ice*, a model to study the effects of geometrical frustration at larger and more accessible spatial and temporal scales.
 
-- [dotfiles](https://github.com/leogabac/dotfiles) 
-- [Neovim configuration](https://github.com/leogabac/leovim)
-- Blog [Random Access Thoughts](https://leogabac.github.io/RandomAccessThoughts/)
+I enjoy solving physical problems through code, with a focus on clarity, maintainability, and performance. While most of my projects are for personal or research use, I strive to follow decent practices.
 
-I also enjoy teaching, as it allows me to share knowledge and help others grow. Explaining complex ideas in a simple way is both a challenge and a reward, and I find it fulfilling to see others gain confidence in what they’re learning. Whether it’s mentoring students, discussing research, or writing about technical topics, I like breaking things down and making them easier to understand. Teaching also helps me learn, as it pushes me to think more clearly and explore new perspectives.
+I am a Linux and FOSS enthusiast who values understanding systems deeply and improving them where possible. I enjoy configuring efficient workflows, automating tasks, experimenting with new tools, and refining my setup to balance flexibility, and efficiency.
 
-You can reach my by sending an email to leogabac@proton.me
+- [Dotfiles](https://github.com/leogabac/dotfiles)  
+- [Neovim configuration](https://github.com/leogabac/leovim)  
+- Blog: [Random Access Thoughts](https://leogabac.github.io/RandomAccessThoughts/)
+
+I also enjoy teaching, as it allows me to share knowledge, support others in their learning, and refine my own understanding. Whether mentoring students, discussing research, or writing about technical topics, I aim to explain concepts clearly and make them accessible.
+
+**Contact:** [leogabac@proton.me](mailto:leogabac@proton.me)
+
