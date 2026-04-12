@@ -10,7 +10,7 @@ I am also a Linux and FOSS enthusiast who likes understanding systems deeply and
 
 I regularly build small tools to support my workflow, writing, and research. A few of them:
 
-- [novellum](https://github.com/leogabac/novellum): a CLI note-taking companion for LaTeX.
+- [novellum](https://github.com/leogabac/novellum): a CLI note-taking companion for LaTeX with [novellum.nvim](https://github.com/leogabac/novellum.nvim) for `neovim` integration.
 - [suisave](https://github.com/leogabac/suisave): a simple backup frontend for `rsync` configured in plain-text.
 - [gremux](https://github.com/leogabac/gremux): a `tmux` session manager.
 - [sysentropy](https://github.com/leogabac/sysentropy): an opinionated extension of Python's logging module.
