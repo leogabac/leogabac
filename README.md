@@ -14,7 +14,9 @@ I am also a Linux and FOSS enthusiast who likes understanding systems deeply and
 
 ## Selected projects
 
-I build small tools to support my workflow, writing, and research.
+**Worflow oriented:**
+
+For personal use to (or at least pretend) enhance my workflow
 
 - [novellum](https://github.com/leogabac/novellum): CLI note-taking companion for LaTeX, with [novellum.nvim](https://github.com/leogabac/novellum.nvim) for `neovim` integration.
 - [suisave](https://github.com/leogabac/suisave): plain-text backup front end for `rsync`.
@@ -24,9 +26,15 @@ I build small tools to support my workflow, writing, and research.
 - [rpy](https://github.com/leogabac/rpy): `pyenv`-style manager for Python virtual environments.
 - [holovim](https://github.com/leogabac/holovim): my `neovim` configuration.
 
+**Research oriented:**
+
+For general use in my lab:
+
+- [cluster-observer](https://github.com/CompSoftMat/cluster-observer): a small static website to monitor PBS jobs in my lab across
+
 ## Selected academic work
 
-- [Anisotropic interactions induce dynamical arrest in artificial colloidal ice](https://doi.org/10.48550/arXiv.2606.02439)
+- [Anisotropic interactions induce dynamical arrest in artificial colloidal ice](https://doi.org/10.1103/q96k-2pcs)
 - [Square Anisotropic Artificial Colloidal Ice](https://hdl.handle.net/11285/703749)
 - Conference talks and posters on colloidal ice, statistical physics, and teaching
 
